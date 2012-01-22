@@ -135,7 +135,7 @@ alias vim="vim.gnome"
 alias be="bundle exec"
 
 # http://github.com/sgruhier/rake_cap_bash_autocomplete
-source ~/.rake_cap_bash_autocomplete.sh
+source ~/dotfiles/.rake_cap_bash_autocomplete.sh
 
 # Add gem executables to the PATH
 export PATH=$PATH:/var/lib/gems/1.8/bin/:~/.gem/ruby/1.8/bin
