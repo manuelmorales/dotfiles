@@ -149,7 +149,6 @@ alias alert='echo ""; notify-send -i /usr/share/icons/gnome/32x32/apps/gnome-te
 
 export PATH=$PATH:~/.rvm/bin
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm"
-rvm 1.8.7@number-3
+rvm 1.9.2
 
-export PATH=$PATH:/opt/dragondisk
 export BUNDLE_GEMFILE=Gemfile.dev
